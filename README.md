@@ -1,0 +1,1 @@
+# celeste-analyzer-result-sample
